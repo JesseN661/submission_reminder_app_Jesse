@@ -1,0 +1,7 @@
+student, assignment, submission status
+here, John Mugabo,Assignment_1,submitted
+Jaqueline Mukeshimana,Assignment_1,not submitted
+Michelle Kalisa,Assignment_1,not submitted
+Isan Hassan,Assignment_1,submitted
+Carlos Miller,Assignment_1,not submitted
+Lucy Liu,Assignment_1,submitted
