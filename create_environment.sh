@@ -1,6 +1,6 @@
 #!/bin/bash
 
-start="submission_reminder_app"
+start="submission_reminder_Jesse"
 mkdir $start/app
 mkdir $start/modules
 mkdir $start/assets
